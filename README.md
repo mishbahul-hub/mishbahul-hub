@@ -1,6 +1,4 @@
 # 💫 About Me:
-- I'm currently learning GenAI <br>
-- Will be sharing my daily learnings <br>
 - Interested in building AI-products that solve real world problems
 
 ## 🌐 Socials:
