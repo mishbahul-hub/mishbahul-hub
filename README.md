@@ -1,6 +1,6 @@
 # Hi, I'm Mishbahul 👋
 
-I'm a pre-final year Electrical Engineering student at **NIT Silchar** who got into machine learning through NLP. Most of what I build sits somewhere between **language models, search and translation**, with a side interest in audio.
+I'm a pre-final year Electrical Engineering student at **NIT Silchar** who got into machine learning through NLP. Most of what I build sits somewhere between **language models, AI Agents and translation**, with a side interest in audio.
 
 - 🔬 Research intern on the **Indian Knowledge Systems (IKS)** internship, working on Vision Transformers for Indian folk music classification
 - 📄 Co-authored a paper at **WMT 2026 (ACL)**, where our team had the best results in 4 of 5 language pairs
